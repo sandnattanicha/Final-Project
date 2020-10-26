@@ -1,0 +1,2 @@
+What's spaCy?: https://spacy.io/usage/spacy-101
+Speech rec: https://www.ibm.com/cloud/learn/speech-recognition
