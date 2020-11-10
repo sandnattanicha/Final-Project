@@ -11,7 +11,7 @@ def binary_pii(label):
 import re
 import pandas as pd
 def clean_text(text):
-    # replace  . and a space with only a space, then amke all words lower case.
+    # replace  . and a space with only a space, then make all words lower case.
     text = text.replace(". "," ").replace(",","").lower()
     # get rid of the . at the end of each line. 
     cleaned_text = re.sub("\.$","",text)
