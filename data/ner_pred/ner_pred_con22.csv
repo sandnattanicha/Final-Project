@@ -1,0 +1,5 @@
+indx,word,start_time,end_time,real_ents
+8,Anna,3.4,3.8,PERSON
+24,u.s.,9.7,10.0,LOCATION
+31,u.s.,13.5,13.7,LOCATION
+65,u.s.,25.9,26.2,LOCATION
