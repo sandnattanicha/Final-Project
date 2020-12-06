@@ -1,2 +1,5 @@
 What's spaCy?: https://spacy.io/usage/spacy-101
 Speech rec: https://www.ibm.com/cloud/learn/speech-recognition
+1.3 ขอบเขตการพัฒนา nltk: http://ijtre.com/images/scripts/2017050122.pdf
+1.3 ขอบเขตการพัฒนา stanford: https://nlp.stanford.edu/software/CRF-NER.html#:~:text=Stanford%20NER%20is%20a%20Java,or%20gene%20and%20protein%20names.&text=Stanford%20NER%20is%20also%20known%20as%20CRFClassifier.
+https://pythonprogramming.net/named-entity-recognition-stanford-ner-tagger/
