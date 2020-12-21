@@ -1,7 +1,10 @@
 indx,word,start_time,end_time,real_ents
 8,Anna,3.4,3.7,PERSON
 17,Anna.,6.8,7.5,PERSON
+58,everyday,22.5,22.9,DATE
 115,Angelina,46.0,46.7,PERSON
+116,Jolie.,46.7,47.4,PERSON
+128,Julie?,51.1,51.4,PERSON
 133,"$10,000",52.7,53.8,MONEY
 158,"$10,000",61.3,62.4,MONEY
 204,$250,80.0,81.5,MONEY
