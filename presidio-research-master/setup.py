@@ -26,7 +26,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'spacy>=2.2.0',
-        'requests==2.22.0',
+        'requests==2.31.0',
         'numpy',
         'pandas',
         'tqdm>=4.32.1',
